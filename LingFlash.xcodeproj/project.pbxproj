@@ -16,6 +16,51 @@
 		1D3E4038221E1D490008162F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E4037221E1D490008162F /* main.m */; };
 		1D3E4042221E1D4A0008162F /* LingFlashTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E4041221E1D4A0008162F /* LingFlashTests.m */; };
 		1D3E404D221E1D4A0008162F /* LingFlashUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E404C221E1D4A0008162F /* LingFlashUITests.m */; };
+		1D3E405C2225EA0A0008162F /* WebPulls.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E405B2225EA0A0008162F /* WebPulls.m */; };
+		1D3E405D2225EA0A0008162F /* WebPulls.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E405B2225EA0A0008162F /* WebPulls.m */; };
+		1D3E405E2225EA0B0008162F /* WebPulls.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E405B2225EA0A0008162F /* WebPulls.m */; };
+		1D3E40B0223210AD0008162F /* BookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40AF223210AD0008162F /* BookViewController.m */; };
+		1D3E40B1223210AD0008162F /* BookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40AF223210AD0008162F /* BookViewController.m */; };
+		1D3E40B2223210AD0008162F /* BookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40AF223210AD0008162F /* BookViewController.m */; };
+		1D3E40B5223210C60008162F /* ChapterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40B4223210C60008162F /* ChapterViewController.m */; };
+		1D3E40B6223210C60008162F /* ChapterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40B4223210C60008162F /* ChapterViewController.m */; };
+		1D3E40B7223210C60008162F /* ChapterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40B4223210C60008162F /* ChapterViewController.m */; };
+		1D3E40BF223213890008162F /* VocabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40BE223213890008162F /* VocabViewController.m */; };
+		1D3E40C0223213890008162F /* VocabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40BE223213890008162F /* VocabViewController.m */; };
+		1D3E40C1223213890008162F /* VocabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40BE223213890008162F /* VocabViewController.m */; };
+		1D3E40C4223213AB0008162F /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40C3223213AB0008162F /* SettingsViewController.m */; };
+		1D3E40C5223213AB0008162F /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40C3223213AB0008162F /* SettingsViewController.m */; };
+		1D3E40C6223213AB0008162F /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40C3223213AB0008162F /* SettingsViewController.m */; };
+		1D3E40C9223213E00008162F /* TrainingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40C8223213DF0008162F /* TrainingViewController.m */; };
+		1D3E40CA223213E00008162F /* TrainingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40C8223213DF0008162F /* TrainingViewController.m */; };
+		1D3E40CB223213E00008162F /* TrainingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40C8223213DF0008162F /* TrainingViewController.m */; };
+		1D3E40CE2234D01B0008162F /* BodyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40CD2234D01B0008162F /* BodyViewController.m */; };
+		1D3E40CF2234D01B0008162F /* BodyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40CD2234D01B0008162F /* BodyViewController.m */; };
+		1D3E40D02234D01B0008162F /* BodyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3E40CD2234D01B0008162F /* BodyViewController.m */; };
+		1D74322E22518794008FB025 /* TrainingWords.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D74322D22518794008FB025 /* TrainingWords.m */; };
+		1D74322F22518794008FB025 /* TrainingWords.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D74322D22518794008FB025 /* TrainingWords.m */; };
+		1D74323022518794008FB025 /* TrainingWords.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D74322D22518794008FB025 /* TrainingWords.m */; };
+		1D8A7E12223F2DC4004093B3 /* Book.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E11223F2DC4004093B3 /* Book.m */; };
+		1D8A7E13223F2DC4004093B3 /* Book.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E11223F2DC4004093B3 /* Book.m */; };
+		1D8A7E14223F2DC4004093B3 /* Book.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E11223F2DC4004093B3 /* Book.m */; };
+		1D8A7E17223F2DEC004093B3 /* BookStatic.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E16223F2DEC004093B3 /* BookStatic.m */; };
+		1D8A7E18223F2DEC004093B3 /* BookStatic.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E16223F2DEC004093B3 /* BookStatic.m */; };
+		1D8A7E19223F2DEC004093B3 /* BookStatic.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E16223F2DEC004093B3 /* BookStatic.m */; };
+		1D8A7E1D2246F2DA004093B3 /* Chapter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E1C2246F2DA004093B3 /* Chapter.m */; };
+		1D8A7E1E2246F2DA004093B3 /* Chapter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E1C2246F2DA004093B3 /* Chapter.m */; };
+		1D8A7E1F2246F2DA004093B3 /* Chapter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E1C2246F2DA004093B3 /* Chapter.m */; };
+		1D8A7E22224708D3004093B3 /* ChapterStatic.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E21224708D3004093B3 /* ChapterStatic.m */; };
+		1D8A7E23224708D3004093B3 /* ChapterStatic.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E21224708D3004093B3 /* ChapterStatic.m */; };
+		1D8A7E24224708D3004093B3 /* ChapterStatic.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E21224708D3004093B3 /* ChapterStatic.m */; };
+		1D8A7E2D22485E3F004093B3 /* VocabStatic.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E2C22485E3F004093B3 /* VocabStatic.m */; };
+		1D8A7E2E22485E3F004093B3 /* VocabStatic.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E2C22485E3F004093B3 /* VocabStatic.m */; };
+		1D8A7E2F22485E3F004093B3 /* VocabStatic.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E2C22485E3F004093B3 /* VocabStatic.m */; };
+		1D8A7E3122485E49004093B3 /* Vocab.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E3022485E49004093B3 /* Vocab.m */; };
+		1D8A7E3222485E49004093B3 /* Vocab.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E3022485E49004093B3 /* Vocab.m */; };
+		1D8A7E3322485E49004093B3 /* Vocab.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E3022485E49004093B3 /* Vocab.m */; };
+		1D8A7E3B224C5FB7004093B3 /* RowTracker.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E3A224C5FB7004093B3 /* RowTracker.m */; };
+		1D8A7E3C224C5FB7004093B3 /* RowTracker.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E3A224C5FB7004093B3 /* RowTracker.m */; };
+		1D8A7E3D224C5FB7004093B3 /* RowTracker.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A7E3A224C5FB7004093B3 /* RowTracker.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +98,36 @@
 		1D3E4048221E1D4A0008162F /* LingFlashUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LingFlashUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D3E404C221E1D4A0008162F /* LingFlashUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LingFlashUITests.m; sourceTree = "<group>"; };
 		1D3E404E221E1D4A0008162F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D3E405A2225E9EB0008162F /* WebPulls.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebPulls.h; sourceTree = "<group>"; };
+		1D3E405B2225EA0A0008162F /* WebPulls.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebPulls.m; sourceTree = "<group>"; };
+		1D3E40AE223210A10008162F /* BookViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BookViewController.h; sourceTree = "<group>"; };
+		1D3E40AF223210AD0008162F /* BookViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BookViewController.m; sourceTree = "<group>"; };
+		1D3E40B3223210B70008162F /* ChapterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChapterViewController.h; sourceTree = "<group>"; };
+		1D3E40B4223210C60008162F /* ChapterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChapterViewController.m; sourceTree = "<group>"; };
+		1D3E40BD2232137C0008162F /* VocabViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VocabViewController.h; sourceTree = "<group>"; };
+		1D3E40BE223213890008162F /* VocabViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VocabViewController.m; sourceTree = "<group>"; };
+		1D3E40C22232139B0008162F /* SettingsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		1D3E40C3223213AB0008162F /* SettingsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		1D3E40C7223213D40008162F /* TrainingViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TrainingViewController.h; sourceTree = "<group>"; };
+		1D3E40C8223213DF0008162F /* TrainingViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TrainingViewController.m; sourceTree = "<group>"; };
+		1D3E40CC2234D0090008162F /* BodyViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BodyViewController.h; sourceTree = "<group>"; };
+		1D3E40CD2234D01B0008162F /* BodyViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BodyViewController.m; sourceTree = "<group>"; };
+		1D74322C22518785008FB025 /* TrainingWords.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TrainingWords.h; sourceTree = "<group>"; };
+		1D74322D22518794008FB025 /* TrainingWords.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TrainingWords.m; sourceTree = "<group>"; };
+		1D8A7E11223F2DC4004093B3 /* Book.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Book.m; sourceTree = "<group>"; };
+		1D8A7E15223F2DDC004093B3 /* BookStatic.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BookStatic.h; sourceTree = "<group>"; };
+		1D8A7E16223F2DEC004093B3 /* BookStatic.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BookStatic.m; sourceTree = "<group>"; };
+		1D8A7E1A223F2E07004093B3 /* Book.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Book.h; sourceTree = "<group>"; };
+		1D8A7E1B2246F2CC004093B3 /* Chapter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Chapter.h; sourceTree = "<group>"; };
+		1D8A7E1C2246F2DA004093B3 /* Chapter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Chapter.m; sourceTree = "<group>"; };
+		1D8A7E20224708C3004093B3 /* ChapterStatic.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChapterStatic.h; sourceTree = "<group>"; };
+		1D8A7E21224708D3004093B3 /* ChapterStatic.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChapterStatic.m; sourceTree = "<group>"; };
+		1D8A7E2A22485E29004093B3 /* Vocab.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Vocab.h; sourceTree = "<group>"; };
+		1D8A7E2B22485E33004093B3 /* VocabStatic.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VocabStatic.h; sourceTree = "<group>"; };
+		1D8A7E2C22485E3F004093B3 /* VocabStatic.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VocabStatic.m; sourceTree = "<group>"; };
+		1D8A7E3022485E49004093B3 /* Vocab.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Vocab.m; sourceTree = "<group>"; };
+		1D8A7E39224C5F9F004093B3 /* RowTracker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RowTracker.h; sourceTree = "<group>"; };
+		1D8A7E3A224C5FB7004093B3 /* RowTracker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RowTracker.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +182,36 @@
 				1D3E4026221E1D470008162F /* AppDelegate.m */,
 				1D3E4028221E1D470008162F /* ViewController.h */,
 				1D3E4029221E1D470008162F /* ViewController.m */,
+				1D3E405A2225E9EB0008162F /* WebPulls.h */,
+				1D3E405B2225EA0A0008162F /* WebPulls.m */,
+				1D3E40CC2234D0090008162F /* BodyViewController.h */,
+				1D3E40CD2234D01B0008162F /* BodyViewController.m */,
+				1D3E40AE223210A10008162F /* BookViewController.h */,
+				1D3E40AF223210AD0008162F /* BookViewController.m */,
+				1D8A7E1A223F2E07004093B3 /* Book.h */,
+				1D8A7E11223F2DC4004093B3 /* Book.m */,
+				1D8A7E15223F2DDC004093B3 /* BookStatic.h */,
+				1D8A7E16223F2DEC004093B3 /* BookStatic.m */,
+				1D3E40B3223210B70008162F /* ChapterViewController.h */,
+				1D3E40B4223210C60008162F /* ChapterViewController.m */,
+				1D8A7E1B2246F2CC004093B3 /* Chapter.h */,
+				1D8A7E1C2246F2DA004093B3 /* Chapter.m */,
+				1D8A7E20224708C3004093B3 /* ChapterStatic.h */,
+				1D8A7E21224708D3004093B3 /* ChapterStatic.m */,
+				1D8A7E39224C5F9F004093B3 /* RowTracker.h */,
+				1D8A7E3A224C5FB7004093B3 /* RowTracker.m */,
+				1D3E40BD2232137C0008162F /* VocabViewController.h */,
+				1D3E40BE223213890008162F /* VocabViewController.m */,
+				1D74322C22518785008FB025 /* TrainingWords.h */,
+				1D74322D22518794008FB025 /* TrainingWords.m */,
+				1D8A7E2A22485E29004093B3 /* Vocab.h */,
+				1D8A7E3022485E49004093B3 /* Vocab.m */,
+				1D8A7E2B22485E33004093B3 /* VocabStatic.h */,
+				1D8A7E2C22485E3F004093B3 /* VocabStatic.m */,
+				1D3E40C22232139B0008162F /* SettingsViewController.h */,
+				1D3E40C3223213AB0008162F /* SettingsViewController.m */,
+				1D3E40C7223213D40008162F /* TrainingViewController.h */,
+				1D3E40C8223213DF0008162F /* TrainingViewController.m */,
 				1D3E402B221E1D470008162F /* Main.storyboard */,
 				1D3E4031221E1D490008162F /* Assets.xcassets */,
 				1D3E4033221E1D490008162F /* LaunchScreen.storyboard */,
@@ -265,9 +370,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D8A7E12223F2DC4004093B3 /* Book.m in Sources */,
+				1D8A7E2D22485E3F004093B3 /* VocabStatic.m in Sources */,
+				1D3E40B5223210C60008162F /* ChapterViewController.m in Sources */,
+				1D8A7E17223F2DEC004093B3 /* BookStatic.m in Sources */,
 				1D3E402A221E1D470008162F /* ViewController.m in Sources */,
+				1D3E40C9223213E00008162F /* TrainingViewController.m in Sources */,
+				1D3E40BF223213890008162F /* VocabViewController.m in Sources */,
 				1D3E4030221E1D470008162F /* LingFlash.xcdatamodeld in Sources */,
+				1D8A7E3122485E49004093B3 /* Vocab.m in Sources */,
+				1D74322E22518794008FB025 /* TrainingWords.m in Sources */,
+				1D3E40B0223210AD0008162F /* BookViewController.m in Sources */,
+				1D8A7E22224708D3004093B3 /* ChapterStatic.m in Sources */,
+				1D3E405C2225EA0A0008162F /* WebPulls.m in Sources */,
+				1D3E40CE2234D01B0008162F /* BodyViewController.m in Sources */,
+				1D3E40C4223213AB0008162F /* SettingsViewController.m in Sources */,
 				1D3E4038221E1D490008162F /* main.m in Sources */,
+				1D8A7E1D2246F2DA004093B3 /* Chapter.m in Sources */,
+				1D8A7E3B224C5FB7004093B3 /* RowTracker.m in Sources */,
 				1D3E4027221E1D470008162F /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -276,7 +396,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D8A7E23224708D3004093B3 /* ChapterStatic.m in Sources */,
+				1D8A7E2E22485E3F004093B3 /* VocabStatic.m in Sources */,
+				1D8A7E13223F2DC4004093B3 /* Book.m in Sources */,
 				1D3E4042221E1D4A0008162F /* LingFlashTests.m in Sources */,
+				1D3E40CA223213E00008162F /* TrainingViewController.m in Sources */,
+				1D74322F22518794008FB025 /* TrainingWords.m in Sources */,
+				1D8A7E3222485E49004093B3 /* Vocab.m in Sources */,
+				1D3E40B1223210AD0008162F /* BookViewController.m in Sources */,
+				1D8A7E18223F2DEC004093B3 /* BookStatic.m in Sources */,
+				1D3E40C5223213AB0008162F /* SettingsViewController.m in Sources */,
+				1D8A7E1E2246F2DA004093B3 /* Chapter.m in Sources */,
+				1D8A7E3C224C5FB7004093B3 /* RowTracker.m in Sources */,
+				1D3E40CF2234D01B0008162F /* BodyViewController.m in Sources */,
+				1D3E405D2225EA0A0008162F /* WebPulls.m in Sources */,
+				1D3E40B6223210C60008162F /* ChapterViewController.m in Sources */,
+				1D3E40C0223213890008162F /* VocabViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,7 +419,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D8A7E24224708D3004093B3 /* ChapterStatic.m in Sources */,
+				1D8A7E2F22485E3F004093B3 /* VocabStatic.m in Sources */,
+				1D8A7E14223F2DC4004093B3 /* Book.m in Sources */,
 				1D3E404D221E1D4A0008162F /* LingFlashUITests.m in Sources */,
+				1D3E40CB223213E00008162F /* TrainingViewController.m in Sources */,
+				1D74323022518794008FB025 /* TrainingWords.m in Sources */,
+				1D8A7E3322485E49004093B3 /* Vocab.m in Sources */,
+				1D3E40B2223210AD0008162F /* BookViewController.m in Sources */,
+				1D8A7E19223F2DEC004093B3 /* BookStatic.m in Sources */,
+				1D3E40C6223213AB0008162F /* SettingsViewController.m in Sources */,
+				1D8A7E1F2246F2DA004093B3 /* Chapter.m in Sources */,
+				1D8A7E3D224C5FB7004093B3 /* RowTracker.m in Sources */,
+				1D3E40D02234D01B0008162F /* BodyViewController.m in Sources */,
+				1D3E405E2225EA0B0008162F /* WebPulls.m in Sources */,
+				1D3E40B7223210C60008162F /* ChapterViewController.m in Sources */,
+				1D3E40C1223213890008162F /* VocabViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
